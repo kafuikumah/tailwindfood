@@ -1,0 +1,23 @@
+{
+  "name": "tailwindfood",
+  "version": "1.0.0",
+  "description": "Trying my hands on the tailwind css framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kafuikumah/tailwindfood.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kafuikumah/tailwindfood/issues"
+  },
+  "homepage": "https://github.com/kafuikumah/tailwindfood#readme",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
