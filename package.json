@@ -1,14 +1,14 @@
 {
-  "name": "tailwindfood",
+  "name": "tailwind-tutorial",
   "version": "1.0.0",
-  "description": "Trying my hands on the tailwind css framework",
+  "description": "All the course files for the Tailwind CSS tutorial on the Net Ninja YouTube channel.",
   "main": "index.js",
   "scripts": {
     "build-css": "tailwindcss build src/styles.css -o public/styles.css"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kafuikumah/tailwindfood.git"
+    "url": "git+https://github.com/kafuikumah/tailwindfood"
   },
   "keywords": [],
   "author": "",
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/kafuikumah/tailwindfood#readme",
   "dependencies": {
-    "tailwindcss": "^3.2.4"
+    "tailwindcss": "^1.4.6"
   }
 }
